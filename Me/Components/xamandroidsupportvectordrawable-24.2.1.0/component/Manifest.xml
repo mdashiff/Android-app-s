@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="xamandroidsupportvectordrawable" is-shell="true">
+  <name>Android Support Library Vector Drawable</name>
+  <publisher>Xamarin Inc.</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <src-url>https://github.com/xamarin/AndroidSupportComponents</src-url>
+  <version>24.2.1.0</version>
+  <summary>Provide backward-compatible versions of Android framework APIs.</summary>
+  <packages>
+    <package id="Xamarin.Android.Support.Vector.Drawable" version="24.2.1" framework="android" />
+    <package id="Xamarin.Android.Support.v7.AppCompat" version="24.2.1" framework="android" />
+  </packages>
+  <samples>
+    <sample id="VectorDrawableSample">
+      <name>Vector Drawable Sample</name>
+      <summary>Vector Drawable Sample</summary>
+    </sample>
+  </samples>
+</component>

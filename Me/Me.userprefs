@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0A7E3DE9-1D00-4CBF-AFEA-DBF97F5B9631}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Me/packages.config" Line="1" Column="1" />
+      <File FileName="Me/SecondActivity.cs" Line="14" Column="13" />
+      <File FileName="Me/MainActivity1.cs" Line="124" Column="4" />
+      <File FileName="Me/AlarmReceiver.cs" Line="29" Column="59" />
+      <File FileName="Me/Data.cs" Line="13" Column="3" />
+      <File FileName="Me/Properties/AssemblyInfo.cs" Line="23" Column="1" />
+      <File FileName="Me/MainActivity.cs" Line="51" Column="57" />
+      <File FileName="Me/Databases/DBHelper.cs" Line="31" Column="2" />
+      <File FileName="Me/Databases/Constants.cs" Line="26" Column="2" />
+      <File FileName="Me/Databases/DBAdapter.cs" Line="69" Column="1" />
+      <File FileName="Me/CustomAdapter.cs" Line="17" Column="15" />
+      <File FileName="Me/LIstNew.cs" Line="39" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Me AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.CB5A27HBWS" />
+</Properties>
